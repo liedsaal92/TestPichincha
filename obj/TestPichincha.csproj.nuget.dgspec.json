@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\TestPichincha\\TestPichincha.csproj": {}
+    "D:\\Repos\\TestPichinchaClone\\TestPichincha.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\TestPichincha\\TestPichincha.csproj": {
+    "D:\\Repos\\TestPichinchaClone\\TestPichincha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\TestPichincha\\TestPichincha.csproj",
+        "projectUniqueName": "D:\\Repos\\TestPichinchaClone\\TestPichincha.csproj",
         "projectName": "TestPichincha",
-        "projectPath": "D:\\Repos\\TestPichincha\\TestPichincha.csproj",
+        "projectPath": "D:\\Repos\\TestPichinchaClone\\TestPichincha.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\TestPichincha\\obj\\",
+        "outputPath": "D:\\Repos\\TestPichinchaClone\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

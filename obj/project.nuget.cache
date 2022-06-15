@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H1tOOrIUNDeO5gOBoF4T+vn/ilnRJH8/T+1WcRCQ9fFg4sBj6DaeV6Gau7MiH7qX0g6xpKnuZr10Y3UXEQ36Xw==",
+  "dgSpecHash": "k+P37AaaZ3gtabQXJK2Ibo9X6Xb65CHnCUEFvRAXz5Bi1xN+e3BoSDMVA5eJvxdIIwmVLkFyGccpoCQmCa6Lxg==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\TestPichincha\\TestPichincha.csproj",
+  "projectFilePath": "D:\\Repos\\TestPichinchaClone\\TestPichincha.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
