@@ -83,12 +83,12 @@ namespace PichinchaTest.Controllers
             
             //se valida saldo de cuenta
             cuenta cuenta = await _context.cuenta.FindAsync(movimientos.cuenta_id);
-            if (cuenta.saldo_inicial==0 && movimientos.tipo_movimiento.Equals(TipoMovimiento.Debito.ToString()))
+            if (cuenta.saldo_inicial==0 && movimientos.tipo_movimiento.Equals(Helper.Enum.TipoMovimiento.Debito.ToString()))
                 return Content("Saldo no disponible.");
             
             List<movimientos> lista = _context.movimientos.ToList();
             //
-            if (movimientos.tipo_movimiento.Equals(TipoMovimiento.Debito.ToString()))
+            if (movimientos.tipo_movimiento.Equals(Helper.Enum.TipoMovimiento.Debito.ToString()))
             {
                 movimientos.valor = - Math.Abs(movimientos.valor);
                 cuenta.saldo_inicial = cuenta.saldo_inicial - movimientos.valor;
@@ -108,7 +108,7 @@ namespace PichinchaTest.Controllers
                     cupoDiarioUsado = cupoDiarioUsado + item.valor;
             }
            
-            if (cupoDiarioUsado + movimientos.valor >= Constantes.CupoDiario && movimientos.tipo_movimiento.Equals(TipoMovimiento.Debito.ToString()))
+            if (cupoDiarioUsado + movimientos.valor >= Constantes.CupoDiario && movimientos.tipo_movimiento.Equals(Helper.Enum.TipoMovimiento.Debito.ToString()))
             {
                 return Content("Cupo diario Excedido, actualmente solo dispone de: $"+ (Constantes.CupoDiario- cupoDiarioUsado));
             }

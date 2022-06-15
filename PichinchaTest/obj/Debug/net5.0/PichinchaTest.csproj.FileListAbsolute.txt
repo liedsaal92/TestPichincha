@@ -278,3 +278,4 @@ D:\Repos\TestPichinchaClone\PichinchaTest\obj\Debug\net5.0\PichinchaTest.dll
 D:\Repos\TestPichinchaClone\PichinchaTest\obj\Debug\net5.0\ref\PichinchaTest.dll
 D:\Repos\TestPichinchaClone\PichinchaTest\obj\Debug\net5.0\PichinchaTest.pdb
 D:\Repos\TestPichinchaClone\PichinchaTest\obj\Debug\net5.0\PichinchaTest.genruntimeconfig.cache
+D:\Repos\TestPichinchaClone\PichinchaTest\bin\Debug\net5.0\Postman\PichinchaTest.postman_collection.json

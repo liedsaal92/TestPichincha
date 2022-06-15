@@ -14,7 +14,7 @@ namespace PichinchaTest.Entities
         [Required]
         [Display(Name = "Tipo de movimiento")]
         [MaxLength(10, ErrorMessage = "Tipo de movimiento no puede exceder de 25 carácteres")]
-        [EnumDataType(typeof(TipoMovimiento))]
+        [EnumDataType(typeof(Helper.Enum.TipoMovimiento))]
         public string tipo_movimiento { get; set; }
         [Required]
         [Display(Name = "Valor de movimiento")]
@@ -27,9 +27,5 @@ namespace PichinchaTest.Entities
         [Required]
         public int cuenta_id { get; set; }
     }
-    public enum TipoMovimiento
-    {
-        Debito,
-        Credito 
-    }
+    
 }
