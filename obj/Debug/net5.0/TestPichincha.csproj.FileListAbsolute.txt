@@ -1,7 +1,0 @@
-D:\Repos\TestPichincha\obj\Debug\net5.0\TestPichincha.csproj.AssemblyReference.cache
-D:\Repos\TestPichincha\obj\Debug\net5.0\TestPichincha.GeneratedMSBuildEditorConfig.editorconfig
-D:\Repos\TestPichincha\obj\Debug\net5.0\TestPichincha.AssemblyInfoInputs.cache
-D:\Repos\TestPichincha\obj\Debug\net5.0\TestPichincha.AssemblyInfo.cs
-D:\Repos\TestPichincha\obj\Debug\net5.0\TestPichincha.csproj.CoreCompileInputs.cache
-D:\Repos\TestPichincha\obj\Debug\net5.0\TestPichincha.MvcApplicationPartsAssemblyInfo.cs
-D:\Repos\TestPichincha\obj\Debug\net5.0\TestPichincha.MvcApplicationPartsAssemblyInfo.cache
