@@ -7431,11 +7431,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\PichinchaTest\\PichinchaTest\\PichinchaTest.csproj",
+      "projectUniqueName": "D:\\Repos\\TestPichinchaClone\\PichinchaTest\\PichinchaTest.csproj",
       "projectName": "PichinchaTest",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\PichinchaTest\\PichinchaTest\\PichinchaTest.csproj",
+      "projectPath": "D:\\Repos\\TestPichinchaClone\\PichinchaTest\\PichinchaTest.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\PichinchaTest\\PichinchaTest\\obj\\",
+      "outputPath": "D:\\Repos\\TestPichinchaClone\\PichinchaTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

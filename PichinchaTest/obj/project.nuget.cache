@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1X6Tw7k8a0IemJHfiucfF7OSzVdN2KlHWQc6A8d281NfnoZWLLC3pUbqhXqMs/JRmZ+kbuhQYMjFgeDWQFk7Ug==",
+  "dgSpecHash": "pX0F+A/9syWYz5HqALeKFefhS512PAxrAH6bT3ERRtmjYqWOo/dl+Ro4qK/HGizVpR0dqBCwKiwtbYcaXNpBjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\PichinchaTest\\PichinchaTest\\PichinchaTest.csproj",
+  "projectFilePath": "D:\\Repos\\TestPichinchaClone\\PichinchaTest\\PichinchaTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
